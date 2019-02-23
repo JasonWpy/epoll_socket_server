@@ -1,0 +1,11 @@
+#ifndef EPOLL_SOCKET_SERVER_SOCKET_H
+#define EPOLL_SOCKET_SERVER_SOCKET_H
+
+
+class socket
+{
+
+};
+
+
+#endif //EPOLL_SOCKET_SERVER_SOCKET_H
